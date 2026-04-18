@@ -63,10 +63,7 @@ It helps businesses:
 ---
 
 ## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/RETAILS-FORECASTING-AND-INVENTORY-OPTIMIZATION-SYSTEM.git
-cd RETAILS-FORECASTING-AND-INVENTORY-OPTIMIZATION-SYSTEM
+git clone https://github.com/ArshiyaMuskan/RETAILS-FORECASTING-AND-INVENTORY-OPTIMIZATION-SYSTEM.git
 pip install -r requirements.txt
 ```
 
